@@ -8,7 +8,10 @@
 * 
 *  Name: Jacob Ilagan Student ID: 124 058 231 Date: December 5, 2024
 *
-********************************************************************************/
+*  Vercel App (Deployed) Link:  https://web422-a6-next.vercel.app/
+*
+********************************************************************************/ 
+
 
 
 import { Container, Row, Col, Image } from "react-bootstrap";
